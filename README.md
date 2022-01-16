@@ -1,2 +1,2 @@
 # azure-resume
-My own Web Resume Hosted in Microsoft Azure
+My own Web Resume Hosted in Microsoft Azure.
